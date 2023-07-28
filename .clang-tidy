@@ -1,0 +1,2 @@
+---
+Checks: 'bugprone-*,cppcoreguidelines-*,misc-*,modernize-*,performance-*,-modernize-use-trailing-return-type'

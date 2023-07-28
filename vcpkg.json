@@ -1,0 +1,13 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+  "license": "MIT",
+  "name": "seticonhook",
+  "version": "0.0.1",
+  "dependencies": [
+    "qtbase",
+    "detours",
+    "boost-program-options",
+    "boost-dll",
+    "boost-filesystem"
+  ]
+}

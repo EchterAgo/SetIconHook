@@ -1,0 +1,8 @@
+BasedOnStyle: Google
+AllowShortBlocksOnASingleLine: false
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortFunctionsOnASingleLine: Empty
+BreakBeforeBraces: Mozilla
+ColumnLimit: 160
+UseCRLF: false
+SortIncludes: false
