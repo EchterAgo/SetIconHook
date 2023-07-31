@@ -61,7 +61,6 @@ struct handle_deleter
 };
 
 using unique_handle = const std::unique_ptr<HANDLE, handle_deleter>;
-using shared_handle = const std::shared_ptr<HANDLE>;
 
 struct virtualfree_deleter
 {
